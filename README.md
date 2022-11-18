@@ -19,7 +19,7 @@ USER : They can register for an account. After the login, they can create the co
 
   * HARIHARAN R
   
-  * JAYASURYA S
+  * JAYASURYA M
   
   * JENITHJOSH Y
   
